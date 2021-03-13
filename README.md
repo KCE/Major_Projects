@@ -1,4 +1,4 @@
-# Major Projects Guides
+# Project Guidelines (Major Projects)
 BCT Major Projects (2074 Batch)
 
 Deadline:
@@ -12,6 +12,7 @@ Please submit Project Team & the Project Title within 2078-01-05.
 
 # Project Ideas
 Please open following links for project topics selection:
+- https://flipkarma.com/subject/major-project/
 - https://1000projects.org/projects/cse-projects
 - https://www.geeksforgeeks.org/computer-science-projects/
 - https://nevonprojects.com/year-projects-for-computer-engineering/
