@@ -1,4 +1,4 @@
-# Project Guidelines (Major Projects)
+# Project Guideline (Major Projects)
 BCT Major Projects (2074 Batch)
 
 Deadline:
