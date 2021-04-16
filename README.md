@@ -2,10 +2,10 @@
 BCT Major Projects (2074 Batch)
 
 Deadline:
-Baishakh 5, 2078
+Baishakh 19, 2078
 
 Dear Students,
-Please submit Project Team & the Project Title within 2078-01-05.
+Please submit Project Team & the Project Title within 2078-01-19.
 - Create an Issues by your Project Name
 - Submit links of relevent papers
 - Comment on that issue for interaction with team & department
