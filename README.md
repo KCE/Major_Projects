@@ -33,6 +33,17 @@ Use the following links to search scientific research paper(s):
 - https://arxiv.org/
 
 
+# Reading Research Papers
+To learn more about how to read and make sense of research papers, we recommend the articles below. Spend about an hour browsing these articles, and bookmark them for later reference if you'd like.
+
+- [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) - in Science
+- [Guide to reading academic research papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6) - by a data scientist
+- [How to read an engineering research paper](https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html) - by a professor at UC San Diego
+- [How to read a paper](https://www.bmj.com/about-bmj/resources-readers/publications/how-read-paper) - a series of articles in The BMJ (relevant to researchers in the health sciences)
+- [How to critically read a research study](https://kresserinstitute.com/critically-read-research-study/) - Kresser Institute (relevant to researchers in the health sciences)
+- [Perceptions of scientific research literature and strategies for reading papers depend on academic career stage](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189753) - in PLOS ONE
+
+Search online for 'how to read a research paper' or with other similar keywords to find more articles.
 
 
 # 
