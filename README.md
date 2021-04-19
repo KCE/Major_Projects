@@ -31,6 +31,10 @@ Use the following links to search scientific research paper(s):
 - https://scholar.google.com/
 - http://arxiv-sanity.com/
 - https://arxiv.org/
+- http://www.ncbi.nlm.nih.gov/pubmed
+- https://academic.microsoft.com/home
+- https://www.lens.org/
+- https://app.dimensions.ai/
 
 
 # Reading Research Papers
